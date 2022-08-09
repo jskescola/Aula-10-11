@@ -1,0 +1,23 @@
+.red-text {
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.bg-color {
+    background-color: blanchedalmond;
+}
+
+.format {
+    color: brown;
+    background-color: white;
+}
+
+.imgConf {
+    height: 10%;
+    width: 10%;
+}
